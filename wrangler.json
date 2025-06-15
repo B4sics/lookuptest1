@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lookuptest1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a21c4900-bb15-4abe-b7ef-2a84949e144c",
+      "database_name": "MasterLookup"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
